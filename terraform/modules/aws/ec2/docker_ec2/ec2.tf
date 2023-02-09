@@ -11,7 +11,6 @@ resource "aws_instance" "instance-template" {
       source      = "${path.module}/deploy_with_docker.sh"
       destination = "/tmp/script.sh"
     }
-
     connection {
       type        = "ssh"
       user        = "ubuntu"
