@@ -1,3 +1,10 @@
+## (승석 추가) 링크를 연결합니다.
+~~~
+> ln -s /home/ubuntu/terra-middle-class/terraform/arch/terraform-middle/dev arch
+> ln -s /home/ubuntu/terra-middle-class/terraform/modules/aws modules
+> ln -s /home/ubuntu/arch/10-init-cloud9/cloud9-setting/packer/bastion-server/ansible ansible
+~~~
+
 ## 1. EKS를 생성합니다.
 ~~~
 > cd terra-middle-class/terraform/arch/terraform-middle/dev/40-eks-getting-started
