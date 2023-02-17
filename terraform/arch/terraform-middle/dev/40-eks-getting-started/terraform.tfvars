@@ -4,7 +4,7 @@ context = {
     aws_region              = "ap-northeast-2"
     region_alias            = "an2"
 
-    project                 = "terra-middle-class-test"
+    project                 = "tf-middle-class-test"
     environment             = "prd"
     env_alias               = "p"
     owner                   = "seungsuk.ryoo@bespinglobal.com"
