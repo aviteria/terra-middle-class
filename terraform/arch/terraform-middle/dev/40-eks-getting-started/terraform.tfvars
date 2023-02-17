@@ -1,16 +1,16 @@
 context = {
     aws_credentials_file    = "$HOME/.aws/credentials"
-    aws_profile             = "jaehyun.yang@bespinglobal.com"
+    aws_profile             = "james"
     aws_region              = "ap-northeast-2"
     region_alias            = "an2"
 
     project                 = "terra-middle-class-test"
     environment             = "prd"
     env_alias               = "p"
-    owner                   = "jaehyun.yang@bespinglobal.com"
-    team_name               = "Devops CNE Team"
-    team                    = "CNE"
-    generator_date          = "20220821"
+    owner                   = "seungsuk.ryoo@bespinglobal.com"
+    team_name               = "Bespin Academy"
+    team                    = "ACA"
+    generator_date          = "20230217"
     domain                  = "terraform.prac.dev"
     pri_domain              = "terraform.prac"
 }
