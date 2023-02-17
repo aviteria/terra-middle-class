@@ -2,6 +2,9 @@
   - Fork 한 Repository 업데이트 하기
     ㄴ https://velog.io/@k904808/Fork-%ED%95%9C-Repository-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0
 
+  - Git pull/push 시 Password 물어보지 않도록 설정하기(credential.helper)
+    ㄴ https://www.hahwul.com/2018/08/22/git-credential-helper/
+
 **피드백 문서**
   - Q:온라인으로 접근? 또는 PPT 파일로 열어 접근? --> 구글 슬라이드는 깨지는 경우가 있으니 하나로 통일하시면 좋겠습니다.
   - 차분하게 설명을 잘 하십니다. 목소리 톤과 속도 너무 좋네요.
