@@ -39,6 +39,7 @@ ansible 2.9.27
 ~~~
 ### asible로 bastion서버에 library 설치 실행
 > cd terra-middle-class/terraform/arch/terraform-middle/dev/10-init-cloud9/cloud9-setting/packer/bastion-server/ansible 
+  ==> 심볼릭 링크로 이동 cd ~/environment/ansible
 > ansible-playbook -i inventory.yml playbook-bastion.yml
 
 // 실행 결과
